@@ -1,0 +1,13 @@
+{
+  "name": "{PROJECT_NAME}",
+  "version": "{PROJECT_VERSION}",
+  "description": "{PROJECT_DESCRIPTION}",
+  "ignore": [],
+  "devDependencies": {
+    "angular-mocks": "1.4.0"
+  },
+  "dependencies": {
+    "angular": "1.4.0",
+    "tng": "https://github.com/diegovilar/tng-bower.git#v0.0.8"
+  }
+}
